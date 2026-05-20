@@ -44,10 +44,12 @@ A Random Forest Classifier is used because:
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 2. Run the program
 ```bash
 python main.py
-
+```
 3. Enter values when prompted
+```bash
 5.1, 3.5, 1.4, 0.2
+```
