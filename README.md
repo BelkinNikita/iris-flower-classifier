@@ -45,9 +45,9 @@ A Random Forest Classifier is used because:
 ```bash
 pip install -r requirements.txt
 
-### 2. Run the program
+2. Run the program
 ```bash
 python main.py
 
-### 3. Enter values when prompted
+3. Enter values when prompted
 5.1, 3.5, 1.4, 0.2
